@@ -13,7 +13,7 @@ import Utilty.CircularlyLinkedList;
 
 /**
  *
- * @author Ameen
+ * @author Eissa Almurisi
  */
 public class DoctorControl {
     CircularlyLinkedList<Doctor> list=new CircularlyLinkedList<>();
@@ -117,4 +117,3 @@ public class DoctorControl {
 
     }
     
-
